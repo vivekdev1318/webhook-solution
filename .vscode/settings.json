@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "java": true,
+        "Get-Command": true,
+        "winget": true
+    },
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
