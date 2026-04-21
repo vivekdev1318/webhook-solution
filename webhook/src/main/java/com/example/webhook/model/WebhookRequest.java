@@ -1,4 +1,4 @@
-& "C:\Program Files\Android\Android Studio\jbr\bin\java.exe" -jar "C:\webhook\webhook\target\webhook-0.0.1-SNAPSHOT.jar"package com.example.webhook.model;
+package com.example.webhook.model;
 
 public class WebhookRequest {
     private String name;
